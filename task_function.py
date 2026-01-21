@@ -52,7 +52,7 @@ def list_tasks():
         row["task_id"] = tid
         rows.append(row)
 
-    # Using Tabulate for that clean grid you wanted
+    
     print("\n" + tabulate(rows, headers="keys", tablefmt="grid"))
 
 def status_update():
