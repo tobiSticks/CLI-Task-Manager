@@ -17,7 +17,7 @@ def main():
             name = input("Name: ")
             desc = input("Description: ")
             date = input("Due Date: ")
-            status = "pending"  # Default for new tasks
+            status = "pending"  
 
             details = {
                 "task_name": name,
