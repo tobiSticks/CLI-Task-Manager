@@ -1,6 +1,6 @@
 # CLI Task Manager
 
-A simple and efficient Command Line Interface (CLI) Task Manager built with Python. This tool allows users to manage their daily tasks directly from the terminal with features like adding, listing, deleting, and updating task statuses.
+A simple and efficient Command Line Interface (CLI) Task Manager built with Python. This tool allows users to manage their daily tasks directly from the terminal with features like adding, listing, deleting, and updating task statuses. I initially wrote the code in one file, then decided to use the modular structure aproach. Tabularizing it was just me going the extra mile. To get the resources i used for this project, star this repo 
 
 ## 🚀 Features
 
@@ -53,4 +53,3 @@ Once the application is running, follow the on-screen prompts:
 - Type `exit` to close the application.
 
 ---
-Built with ❤️ for better productivity!
